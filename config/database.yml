@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: omnidemo_development
+
+test:
+  adapter: postgresql
+  database: omnidemo_test
